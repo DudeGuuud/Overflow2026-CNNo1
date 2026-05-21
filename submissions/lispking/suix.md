@@ -5,7 +5,7 @@
 - [x] Agentic Web
 - [ ] DeFi & Payments
 - [ ] DeepBook
-- [ ] Walrus
+- [x] Walrus
 
 ## Description / 项目简介
 
